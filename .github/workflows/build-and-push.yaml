@@ -32,4 +32,4 @@ jobs:
           context: .
           target: run
           push: true
-          tags: ghcr.io/${{ github.repository.owner }}/digital_garden:latest
+          tags: ghcr.io/${{ env.GITHUB_REPOSITORY_OWNER }}/digital_garden:latest
