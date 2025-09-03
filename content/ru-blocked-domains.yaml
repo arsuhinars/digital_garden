@@ -1,52 +1,53 @@
-# Youtube
-- 'youtube.com'
-- 'www.youtube.com'
-- '*.googlevideo.com'
-- 'i.ytimg.com'
+payload:
+  # Youtube
+  - 'youtube.com'
+  - 'www.youtube.com'
+  - '*.googlevideo.com'
+  - 'i.ytimg.com'
 
-# Discord
-- 'discord.com'
-- 'gateway.discord.gg'
-- 'status.discord.com'
-- '*.discord.media'
-- 'cdn.discordapp.com'
-- 'media.discordapp.com'
-- 'stable.dl2.discordapp.net'
-- 'gateway-us-east1-d.discord.gg'
+  # Discord
+  - 'discord.com'
+  - 'gateway.discord.gg'
+  - 'status.discord.com'
+  - '*.discord.media'
+  - 'cdn.discordapp.com'
+  - 'media.discordapp.com'
+  - 'stable.dl2.discordapp.net'
+  - 'gateway-us-east1-d.discord.gg'
 
-# Medium
-- 'medium.com'
-- 'miro.medium.com'
-- 'cdn-client.medium.com'
-- 'glyph.medium.com'
-- '*.medium.com'
+  # Medium
+  - 'medium.com'
+  - 'miro.medium.com'
+  - 'cdn-client.medium.com'
+  - 'glyph.medium.com'
+  - '*.medium.com'
 
-# Instagram
-- 'instagram.com'
-- 'www.instagram.com'
-- 'facebook.com'
-- 'www.facebook.com'
-- 'gateway.instagram.com'
-- 'static.xx.fbcdn.net'
-- '*.cdninstagram.com'
-- '*.fbcdn.net'
-- 'edge-chat.instagram.com'
-- 'edge-chat.facebook.com'
-- 'web-chat-e2ee.instagram.com'
+  # Instagram
+  - 'instagram.com'
+  - 'www.instagram.com'
+  - 'facebook.com'
+  - 'www.facebook.com'
+  - 'gateway.instagram.com'
+  - 'static.xx.fbcdn.net'
+  - '*.cdninstagram.com'
+  - '*.fbcdn.net'
+  - 'edge-chat.instagram.com'
+  - 'edge-chat.facebook.com'
+  - 'web-chat-e2ee.instagram.com'
 
-# LinkedIn
-- 'linkedin.com'
-- 'www.linkedin.com'
-- 'media.licdn.com'
-- 'static.licdn.com'
+  # LinkedIn
+  - 'linkedin.com'
+  - 'www.linkedin.com'
+  - 'media.licdn.com'
+  - 'static.licdn.com'
 
-# Twitter
-- 'x.com'
-- 'twitter.com'
-- 'abs.twimg.com'
-- 'api.x.com'
-- 'pbs.twimg.com'
+  # Twitter
+  - 'x.com'
+  - 'twitter.com'
+  - 'abs.twimg.com'
+  - 'api.x.com'
+  - 'pbs.twimg.com'
 
-# Quora
-- 'quora.com'
-- 'www.quora.com'
+  # Quora
+  - 'quora.com'
+  - 'www.quora.com'
