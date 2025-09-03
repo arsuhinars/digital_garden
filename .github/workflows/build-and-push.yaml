@@ -32,6 +32,7 @@ jobs:
           context: .
           target: run
           push: true
-          tags: type=raw,latest
+          tags: |
+            type=raw,value=latest
           cache-from: type=gha
           cache-to: type=gha
