@@ -12,7 +12,9 @@ payload:
   - '*.discord.media'
   - 'cdn.discordapp.com'
   - 'media.discordapp.com'
+  - 'media.discordapp.net'
   - 'stable.dl2.discordapp.net'
+  - 'gateway-us-east1-c.discord.gg'
   - 'gateway-us-east1-d.discord.gg'
 
   # Medium
@@ -51,3 +53,9 @@ payload:
   # Quora
   - 'quora.com'
   - 'www.quora.com'
+
+  # Pixiv
+  - 'pixiv.net'
+  - 'www.pixiv.net'
+  - 'accounts.pixiv.net'
+  - 's.pximg.net'
