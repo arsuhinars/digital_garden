@@ -33,6 +33,6 @@ jobs:
           target: run
           push: true
           tags: |
-            digital_garden:latest
+            arsuhinars/digital_garden:latest
           cache-from: type=gha
           cache-to: type=gha
