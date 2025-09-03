@@ -29,10 +29,8 @@ jobs:
       - name: Build and Push Docker Image
         uses: docker/build-push-action@v6
         with:
-          context: .
           target: run
-          push: true
           tags: |
-            type=raw,value=latest
+            arsuhinars/digital_garden:latest
           cache-from: type=gha
           cache-to: type=gha
