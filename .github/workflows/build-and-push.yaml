@@ -29,5 +29,4 @@ jobs:
           context: .
           target: run
           push: true
-          tags: |
-            ${{ github.repository }}.github.io/${{ github.repository }}:latest
+          tags: digital_garden:latest
