@@ -32,4 +32,6 @@ jobs:
           context: .
           target: run
           push: true
-          tags: arsuhinars/digital_garden:latest
+          tags: type=raw,latest
+          cache-from: type=gha
+          cache-to: type=gha
