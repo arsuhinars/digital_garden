@@ -1,4 +1,4 @@
-FROM node:24-alpine AS install
+FROM node:24-bookworm AS install
 WORKDIR /digital_garden
 COPY package.json .
 COPY package-lock.json* .
